@@ -1,6 +1,6 @@
 # 📦 nebula-telegram-bot
 
-> This is a Discord bot with several moderation features.
+> A simple Telegram bot that fetches the latest news and current weather updates.
 
 ---
 
