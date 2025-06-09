@@ -31,4 +31,4 @@ Clone the repository and install dependencies:
 
 ```bash
 git https://github.com/aleex-sh/nebula-telegram-bot
-cd project-name
+cd nebula-telegram-bot
